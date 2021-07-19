@@ -1,5 +1,0 @@
-# DecisionTreeClassifier 객체 생성 
-dt_clf = DecisionTreeClassifier(random_state=11)
-
-# 학습 수행 
-dt_clf.fit(X_train, y_train)
